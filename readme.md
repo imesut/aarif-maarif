@@ -1,5 +1,5 @@
-#aarif-maarif Readme
-##Python Bot for Clarifai Visual Recognition
+# aarif-maarif Readme
+## Python Bot for Clarifai Visual Recognition
 
 Clarify is an image and video recognition API service.
 
